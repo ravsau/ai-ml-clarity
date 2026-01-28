@@ -1,17 +1,6 @@
-# ML Clarity
+# AI/ML Clarity
 
 Clearing up common ML/AI confusions - one question at a time.
-
-## Structure
-
-```
-questions/
-├── fundamentals/       # Core ML/AI concepts
-├── deep-learning/      # Neural networks, architectures
-├── llms/               # Large language models
-├── tools/              # Frameworks, MLOps
-└── math/               # Stats, linear algebra
-```
 
 ## Index
 
