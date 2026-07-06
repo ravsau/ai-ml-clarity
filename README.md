@@ -22,3 +22,4 @@ Clearing up common ML/AI confusions - one question at a time.
 | Is prompt engineering still relevant? | [llms/is-prompt-engineering-relevant.md](questions/llms/is-prompt-engineering-relevant.md) |
 | Is all of a Mixture of Experts (MoE) loaded in RAM? | [llms/is-moe-loaded-in-ram.md](questions/llms/is-moe-loaded-in-ram.md) |
 | What does Q2, Q4, Q5, Q8 mean in local AI models? | [llms/quantization-levels-q2-q4-q5-q8.md](questions/llms/quantization-levels-q2-q4-q5-q8.md) |
+| Does Multi-Token Prediction (MTP) lower quality? | [llms/does-mtp-lower-quality.md](questions/llms/does-mtp-lower-quality.md) |
