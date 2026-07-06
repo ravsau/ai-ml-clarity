@@ -19,3 +19,4 @@ Clearing up common ML/AI confusions - one question at a time.
 | What is RAG and why is it used? | [llms/what-is-rag.md](questions/llms/what-is-rag.md) |
 | Why does AI hallucinate or make things up? | [llms/why-ai-hallucinates.md](questions/llms/why-ai-hallucinates.md) |
 | Is prompt engineering still relevant? | [llms/is-prompt-engineering-relevant.md](questions/llms/is-prompt-engineering-relevant.md) |
+| Is all of a Mixture of Experts (MoE) loaded in RAM? | [llms/is-moe-loaded-in-ram.md](questions/llms/is-moe-loaded-in-ram.md) |
