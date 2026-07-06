@@ -10,6 +10,7 @@ Clearing up common ML/AI confusions - one question at a time.
 | Is a transformer a type of neural network? | [deep-learning/is-transformer-neural-network.md](questions/deep-learning/is-transformer-neural-network.md) |
 | What's the difference between parameters and hyperparameters? | [fundamentals/parameters-vs-hyperparameters.md](questions/fundamentals/parameters-vs-hyperparameters.md) |
 | Is fine-tuning the same as training? | [fundamentals/fine-tuning-vs-training.md](questions/fundamentals/fine-tuning-vs-training.md) |
+| Is fine-tuning part of post-training? | [fundamentals/is-fine-tuning-post-training.md](questions/fundamentals/is-fine-tuning-post-training.md) |
 | Is a bigger model always better? | [fundamentals/bigger-model-always-better.md](questions/fundamentals/bigger-model-always-better.md) |
 | What are embeddings and why are they important? | [fundamentals/what-are-embeddings.md](questions/fundamentals/what-are-embeddings.md) |
 | What's the difference between AI, AGI, and ASI? | [fundamentals/ai-agi-asi.md](questions/fundamentals/ai-agi-asi.md) |
@@ -20,3 +21,4 @@ Clearing up common ML/AI confusions - one question at a time.
 | Why does AI hallucinate or make things up? | [llms/why-ai-hallucinates.md](questions/llms/why-ai-hallucinates.md) |
 | Is prompt engineering still relevant? | [llms/is-prompt-engineering-relevant.md](questions/llms/is-prompt-engineering-relevant.md) |
 | Is all of a Mixture of Experts (MoE) loaded in RAM? | [llms/is-moe-loaded-in-ram.md](questions/llms/is-moe-loaded-in-ram.md) |
+| What does Q2, Q4, Q5, Q8 mean in local AI models? | [llms/quantization-levels-q2-q4-q5-q8.md](questions/llms/quantization-levels-q2-q4-q5-q8.md) |
