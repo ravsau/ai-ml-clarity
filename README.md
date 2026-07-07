@@ -26,4 +26,5 @@ Clearing up common ML/AI confusions - one question at a time.
 | Vector search vs semantic search vs RAG — same thing? | [llms/vector-search-vs-semantic-search-vs-rag.md](questions/llms/vector-search-vs-semantic-search-vs-rag.md) |
 | Does a KV cache speed up your next prompt? | [llms/does-kv-cache-speed-up-next-prompt.md](questions/llms/does-kv-cache-speed-up-next-prompt.md) |
 | Does prompt caching use the KV cache? | [llms/is-prompt-caching-the-kv-cache.md](questions/llms/is-prompt-caching-the-kv-cache.md) |
+| Why does my local model get slower the longer we chat? | [llms/why-local-model-slows-down-long-chat.md](questions/llms/why-local-model-slows-down-long-chat.md) |
 | Why is the first token slow but the rest are fast? | [llms/why-first-token-slow.md](questions/llms/why-first-token-slow.md) |
