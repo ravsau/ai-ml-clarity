@@ -23,3 +23,6 @@ Clearing up common ML/AI confusions - one question at a time.
 | Is all of a Mixture of Experts (MoE) loaded in RAM? | [llms/is-moe-loaded-in-ram.md](questions/llms/is-moe-loaded-in-ram.md) |
 | What does Q2, Q4, Q5, Q8 mean in local AI models? | [llms/quantization-levels-q2-q4-q5-q8.md](questions/llms/quantization-levels-q2-q4-q5-q8.md) |
 | Does Multi-Token Prediction (MTP) lower quality? | [llms/does-mtp-lower-quality.md](questions/llms/does-mtp-lower-quality.md) |
+| Vector search vs semantic search vs RAG — same thing? | [llms/vector-search-vs-semantic-search-vs-rag.md](questions/llms/vector-search-vs-semantic-search-vs-rag.md) |
+| Does a KV cache speed up your next prompt? | [llms/does-kv-cache-speed-up-next-prompt.md](questions/llms/does-kv-cache-speed-up-next-prompt.md) |
+| Why is the first token slow but the rest are fast? | [llms/why-first-token-slow.md](questions/llms/why-first-token-slow.md) |
