@@ -8,6 +8,7 @@ Clearing up common ML/AI confusions - one question at a time.
 |----------|------|
 | Are all deep learning models based on neural networks? | [deep-learning/neural-nets-vs-deep-learning.md](questions/deep-learning/neural-nets-vs-deep-learning.md) |
 | Is a transformer a type of neural network? | [deep-learning/is-transformer-neural-network.md](questions/deep-learning/is-transformer-neural-network.md) |
+| How do you train a model too big for one GPU? | [deep-learning/how-are-huge-models-trained.md](questions/deep-learning/how-are-huge-models-trained.md) |
 | What's the difference between parameters and hyperparameters? | [fundamentals/parameters-vs-hyperparameters.md](questions/fundamentals/parameters-vs-hyperparameters.md) |
 | Is fine-tuning the same as training? | [fundamentals/fine-tuning-vs-training.md](questions/fundamentals/fine-tuning-vs-training.md) |
 | Is fine-tuning part of post-training? | [fundamentals/is-fine-tuning-post-training.md](questions/fundamentals/is-fine-tuning-post-training.md) |
