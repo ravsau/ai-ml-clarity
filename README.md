@@ -15,6 +15,8 @@ Clearing up common ML/AI confusions - one question at a time.
 | Is a bigger model always better? | [fundamentals/bigger-model-always-better.md](questions/fundamentals/bigger-model-always-better.md) |
 | What are embeddings and why are they important? | [fundamentals/what-are-embeddings.md](questions/fundamentals/what-are-embeddings.md) |
 | What's the difference between AI, AGI, and ASI? | [fundamentals/ai-agi-asi.md](questions/fundamentals/ai-agi-asi.md) |
+| What's the difference between an AI model and an AI assistant? | [fundamentals/ai-model-vs-assistant.md](questions/fundamentals/ai-model-vs-assistant.md) |
+| What are precision and recall, and why do they decide RAG quality? | [fundamentals/precision-vs-recall.md](questions/fundamentals/precision-vs-recall.md) |
 | Does the AI remember me? Context window vs memory | [llms/context-window-vs-memory.md](questions/llms/context-window-vs-memory.md) |
 | What is a context window and why does it matter? | [llms/what-is-context-window.md](questions/llms/what-is-context-window.md) |
 | Are tokens the same as words? | [llms/tokens-vs-words.md](questions/llms/tokens-vs-words.md) |
