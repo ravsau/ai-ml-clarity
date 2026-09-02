@@ -18,6 +18,7 @@ Clearing up common ML/AI confusions - one question at a time.
 | What's the difference between an AI model and an AI assistant? | [fundamentals/ai-model-vs-assistant.md](questions/fundamentals/ai-model-vs-assistant.md) |
 | What are precision and recall, and why do they decide RAG quality? | [fundamentals/precision-vs-recall.md](questions/fundamentals/precision-vs-recall.md) |
 | Does the AI remember me? Context window vs memory | [llms/context-window-vs-memory.md](questions/llms/context-window-vs-memory.md) |
+| What is a system prompt and who can see it? | [llms/what-is-a-system-prompt.md](questions/llms/what-is-a-system-prompt.md) |
 | What is a context window and why does it matter? | [llms/what-is-context-window.md](questions/llms/what-is-context-window.md) |
 | Are tokens the same as words? | [llms/tokens-vs-words.md](questions/llms/tokens-vs-words.md) |
 | What is RAG and why is it used? | [llms/what-is-rag.md](questions/llms/what-is-rag.md) |
