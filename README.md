@@ -33,3 +33,4 @@ Clearing up common ML/AI confusions - one question at a time.
 | Why does my local model get slower the longer we chat? | [llms/why-local-model-slows-down-long-chat.md](questions/llms/why-local-model-slows-down-long-chat.md) |
 | Why is the first token slow but the rest are fast? | [llms/why-first-token-slow.md](questions/llms/why-first-token-slow.md) |
 | Temperature vs top-p, what actually changes? | [llms/temperature-vs-top-p.md](questions/llms/temperature-vs-top-p.md) |
+| Why does the same prompt give different answers? | [llms/why-same-prompt-different-answers.md](questions/llms/why-same-prompt-different-answers.md) |
