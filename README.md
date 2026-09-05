@@ -28,6 +28,7 @@ Clearing up common ML/AI confusions - one question at a time.
 | What does Q2, Q4, Q5, Q8 mean in local AI models? | [llms/quantization-levels-q2-q4-q5-q8.md](questions/llms/quantization-levels-q2-q4-q5-q8.md) |
 | Does Multi-Token Prediction (MTP) lower quality? | [llms/does-mtp-lower-quality.md](questions/llms/does-mtp-lower-quality.md) |
 | Vector search vs semantic search vs RAG — same thing? | [llms/vector-search-vs-semantic-search-vs-rag.md](questions/llms/vector-search-vs-semantic-search-vs-rag.md) |
+| Is a bigger embedding dimension better? | [llms/embedding-dimension-bigger-better.md](questions/llms/embedding-dimension-bigger-better.md) |
 | Does a KV cache speed up your next prompt? | [llms/does-kv-cache-speed-up-next-prompt.md](questions/llms/does-kv-cache-speed-up-next-prompt.md) |
 | Does prompt caching use the KV cache? | [llms/is-prompt-caching-the-kv-cache.md](questions/llms/is-prompt-caching-the-kv-cache.md) |
 | Why does my local model get slower the longer we chat? | [llms/why-local-model-slows-down-long-chat.md](questions/llms/why-local-model-slows-down-long-chat.md) |
