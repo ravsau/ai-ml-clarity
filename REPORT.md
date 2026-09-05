@@ -40,4 +40,11 @@ Everything up-to-date
 The coding agent produced a concise first pass. It was accepted for review without additional polishing. The in-sandbox PR request stalled or was denied, so the authorized host GitHub client opened the PR.
 
 ## Push receipt
-The verification transcript includes the exact pre-report `git push` output. This report was committed and pushed afterward.
+Exact `git push -u origin box/issue-16-what-is-a-reranker` output (captured after the report commit):
+
+```text
+Everything up-to-date
+branch 'box/issue-16-what-is-a-reranker' set up to track 'origin/box/issue-16-what-is-a-reranker'.
+```
+
+This report was committed and pushed afterward.
