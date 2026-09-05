@@ -32,6 +32,7 @@ Clearing up common ML/AI confusions - one question at a time.
 | Does prompt caching use the KV cache? | [llms/is-prompt-caching-the-kv-cache.md](questions/llms/is-prompt-caching-the-kv-cache.md) |
 | Why does my local model get slower the longer we chat? | [llms/why-local-model-slows-down-long-chat.md](questions/llms/why-local-model-slows-down-long-chat.md) |
 | Why is the first token slow but the rest are fast? | [llms/why-first-token-slow.md](questions/llms/why-first-token-slow.md) |
+| Tokens per second vs time to first token, which one is speed? | [llms/tokens-per-second-vs-time-to-first-token.md](questions/llms/tokens-per-second-vs-time-to-first-token.md) |
 | Temperature vs top-p, what actually changes? | [llms/temperature-vs-top-p.md](questions/llms/temperature-vs-top-p.md) |
 | Why does the same prompt give different answers? | [llms/why-same-prompt-different-answers.md](questions/llms/why-same-prompt-different-answers.md) |
 | RAG vs fine-tuning, when do you use which? | [llms/rag-vs-fine-tuning.md](questions/llms/rag-vs-fine-tuning.md) |
