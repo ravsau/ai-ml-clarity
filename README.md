@@ -22,6 +22,7 @@ Clearing up common ML/AI confusions - one question at a time.
 | What is a context window and why does it matter? | [llms/what-is-context-window.md](questions/llms/what-is-context-window.md) |
 | Are tokens the same as words? | [llms/tokens-vs-words.md](questions/llms/tokens-vs-words.md) |
 | What is RAG and why is it used? | [llms/what-is-rag.md](questions/llms/what-is-rag.md) |
+| What is a reranker and why add one after vector search? | [llms/what-is-a-reranker.md](questions/llms/what-is-a-reranker.md) |
 | Why does AI hallucinate or make things up? | [llms/why-ai-hallucinates.md](questions/llms/why-ai-hallucinates.md) |
 | Is prompt engineering still relevant? | [llms/is-prompt-engineering-relevant.md](questions/llms/is-prompt-engineering-relevant.md) |
 | Is all of a Mixture of Experts (MoE) loaded in RAM? | [llms/is-moe-loaded-in-ram.md](questions/llms/is-moe-loaded-in-ram.md) |
